@@ -17,6 +17,10 @@ Admin credentials : <br/>
 email : chang.chen2@husky.neu.edu <br/>
 password : 1234 <br/>
 
+Student credentials : <br/>
+email : jack.daniel@gmail.com <br/>
+password : 1234 <br/>
+
 
 <br />
 PROGRAM NAMES AND THEIR FUNCTION: <br />
