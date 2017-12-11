@@ -13,6 +13,11 @@ Step6: Start the server by typing in the command: "node server.js" <br />
 Step7: Open a web browser (preferably google chrome) and type "localhost:5554" in the address bar. <br />
 Step8: Press enter and trainly.io is opened. <br />
 
+Admin credentials :
+email : chang.chen2@husky.neu.edu
+password : 1234 
+
+
 <br />
 PROGRAM NAMES AND THEIR FUNCTION: <br />
 server.js: This file imports all the libraries required to run the website on the browser. It also specifies the port number if we are running it on our local machine. <br />
