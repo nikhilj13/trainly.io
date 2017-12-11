@@ -9,9 +9,9 @@ Step2: Go to phpMyAdmin and import the TRAINLYIO.sql data dump. <br />
 Step3: Install Node.js <br />
 Step4: Open Terminal and go to Downloads/trainly.io-master/TrainlyIO/ <br />
 Step5: Type in the command: "npm install" (adds all the dependencies such as express, cookie etc.) <br />
-Step5: Start the server by typing in the command: "node server.js" <br />
-Step6: Open a web browser (preferably google chrome) and type "localhost:5554" in the address bar. <br />
-Step7: Press enter and trainly.io is opened. <br />
+Step6: Start the server by typing in the command: "node server.js" <br />
+Step7: Open a web browser (preferably google chrome) and type "localhost:5554" in the address bar. <br />
+Step8: Press enter and trainly.io is opened. <br />
 
 <br />
 PROGRAM NAMES AND THEIR FUNCTION: <br />
